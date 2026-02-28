@@ -1,5 +1,7 @@
 # 🧲 Spin Dynamics Workshop (Python + Jupyter)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coteo-cbpf/dft_sd_workshop/main?labpath=notebook%2Fspin_dynamics_workshop_tutorial.ipynb)
+
 Welcome! This repository contains a **hands-on, step-by-step workshop** where students build an **atomistic spin-dynamics** code from scratch in **Python** and run it in a **Jupyter Notebook** with **interactive visualization**.
 
 The notebook is written to be *didactic*: each routine is implemented, explained, and immediately tested with small checks and plots.
