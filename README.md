@@ -90,7 +90,43 @@ jupyter notebook
 
 Open the main notebook and run **top-to-bottom**.
 
+### 🔗 Launch individual notebooks on Binder
+
+You can open any notebook in this repository directly on Binder using the links below (launched from `aibergman/dft_sd_workshop`, branch `uppasd_notebooks`).
+
+#### DFT
+- [notebook-dft/dft_notebook.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook-dft%2Fdft_notebook.ipynb)
+
+#### LLG + Python
+- [notebook-sd/spin_dynamics_workshop_tutorial.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook-sd%2Fspin_dynamics_workshop_tutorial.ipynb)
+
+#### UppASD
+- [notebook-uppasd/Skyrmion_Interactive.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook-uppasd%2FSkyrmion_Interactive.ipynb)
+- [notebook-uppasd/UppASD_bccFe_thermo.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook-uppasd%2FUppASD_bccFe_thermo.ipynb)
+- [notebook-uppasd/UppASD_bccFe.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook-uppasd%2FUppASD_bccFe.ipynb)
+- [notebook-uppasd/J1J2J3_exchange.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook-uppasd%2FJ1J2J3_exchange.ipynb)
+- [notebook-uppasd/CBPFTutorial.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook-uppasd%2FCBPFTutorial.ipynb)
+- [notebook-uppasd/Skyrmion_Lattice.ipynb](https://mybinder.org/v2/gh/aibergman/dft_sd_workshop/uppasd_notebooks?urlpath=%2Flab%2Ftree%2Fnotebook-uppasd%2FSkyrmion_Lattice.ipynb)
+
 ---
+
+### ☁️ Open selected notebooks on Google Colab
+
+You can open the same selected notebooks directly in Google Colab (runs on Colab VMs). These links use the `aibergman/dft_sd_workshop` repository and the `uppasd_notebooks` branch.
+
+#### DFT
+- [notebook-dft/dft_notebook.ipynb](https://colab.research.google.com/github/aibergman/dft_sd_workshop/blob/uppasd_notebooks/notebook-dft/dft_notebook.ipynb)
+
+#### LLG + Python
+- [notebook-sd/spin_dynamics_workshop_tutorial.ipynb](https://colab.research.google.com/github/aibergman/dft_sd_workshop/blob/uppasd_notebooks/notebook-sd/spin_dynamics_workshop_tutorial.ipynb)
+
+#### UppASD
+- [notebook-uppasd/Skyrmion_Interactive.ipynb](https://colab.research.google.com/github/aibergman/dft_sd_workshop/blob/uppasd_notebooks/notebook-uppasd/Skyrmion_Interactive.ipynb)
+- [notebook-uppasd/UppASD_bccFe_thermo.ipynb](https://colab.research.google.com/github/aibergman/dft_sd_workshop/blob/uppasd_notebooks/notebook-uppasd/UppASD_bccFe_thermo.ipynb)
+- [notebook-uppasd/UppASD_bccFe.ipynb](https://colab.research.google.com/github/aibergman/dft_sd_workshop/blob/uppasd_notebooks/notebook-uppasd/UppASD_bccFe.ipynb)
+- [notebook-uppasd/J1J2J3_exchange.ipynb](https://colab.research.google.com/github/aibergman/dft_sd_workshop/blob/uppasd_notebooks/notebook-uppasd/J1J2J3_exchange.ipynb)
+- [notebook-uppasd/CBPFTutorial.ipynb](https://colab.research.google.com/github/aibergman/dft_sd_workshop/blob/uppasd_notebooks/notebook-uppasd/CBPFTutorial.ipynb)
+- [notebook-uppasd/Skyrmion_Lattice.ipynb](https://colab.research.google.com/github/aibergman/dft_sd_workshop/blob/uppasd_notebooks/notebook-uppasd/Skyrmion_Lattice.ipynb)
 
 ## 📬 Contact
 For questions or suggestions, feel free to reach out: **ramon.cardias@cbpf.br**

@@ -6,3 +6,6 @@ tqdm
 ipympl
 ipywidgets
 notebook
+
+# NOTE: `uppasd` is installed from Test PyPI by Binder's postBuild script.
+# See .binder/postBuild for the install command.

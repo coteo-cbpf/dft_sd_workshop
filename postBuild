@@ -1,0 +1,14 @@
+#!/bin/bash
+set -euo pipefail
+
+# Enable interactive matplotlib for classic notebook if available (no-op otherwise)
+jupyter nbextension enable --py --sys-prefix ipympl || true
+
+echo "Installing uppasd from TestPyPI (pre-release)..."
+# Install the pre-release `uppasd` wheel from Test PyPI while keeping PyPI as fallback
+pip install --pre --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple uppasd
+
+echo "Done installing uppasd."
+
+# NOTE: previously referenced notebook (kept as comment)
+# notebook/spin_dynamics_workshop_tutorial.ipynb
