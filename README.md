@@ -6,6 +6,8 @@ Welcome! This repository contains a **hands-on, step-by-step workshop** where st
 
 The notebook is written to be *didactic*: each routine is implemented, explained, and immediately tested with small checks and plots.
 
+The Quantum ESPRESSO tutorial (for the second day) can be found here: [https://github.com/coteo-cbpf/Quantum-Espresso-tutorial](https://github.com/coteo-cbpf/Quantum-Espresso-tutorial)
+
 ---
 
 ## ✨ What’s inside
